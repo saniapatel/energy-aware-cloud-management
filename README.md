@@ -27,9 +27,12 @@ Based on CPU usage:
 
 ##  Output
 
-The system generates an energy consumption graph:
+The system generates an energy consumption graph showing:
+- Reduction in energy during low load
+- Increase during high load
 
-* `energy_graph.png`
+Example:
+![Energy Graph](energy_graph.png)
 
 ##  Docker Usage
 
